@@ -1,5 +1,5 @@
 # What is this project?
-Data retrieval is a Python / Jupyter Notebook project that implement the following:
+Data retrieval is a Python / Jupyter Notebook project that implements the following:
 - Web scraping (Part1)
 - Punctuation and stopword removal (Part2)
 - Creating an inverted index for all remaining words (Part3)
